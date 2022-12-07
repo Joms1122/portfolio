@@ -1,0 +1,25 @@
+[debug] [2022-12-07T12:46:02.208Z] ----------------------------------------------------------------------
+[debug] [2022-12-07T12:46:02.211Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\carga\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-12-07T12:46:02.212Z] CLI Version:   11.17.0
+[debug] [2022-12-07T12:46:02.213Z] Platform:      win32
+[debug] [2022-12-07T12:46:02.213Z] Node Version:  v18.12.1
+[debug] [2022-12-07T12:46:02.214Z] Time:          Wed Dec 07 2022 20:46:02 GMT+0800 (Singapore Standard Time)
+[debug] [2022-12-07T12:46:02.215Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-12-07T12:46:02.357Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-12-07T12:46:02.358Z] > authorizing via signed-in user (carganillo@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\Mobile\web\Portfolio1\flutter-web-portfolio
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
