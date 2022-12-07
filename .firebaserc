@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "web-portfolio-ddd55",
+    "portfolio-appv1": "portfolio-appv1"
+  },
+  "targets": {},
+  "etags": {}
+}
